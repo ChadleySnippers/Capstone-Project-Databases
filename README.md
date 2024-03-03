@@ -32,9 +32,9 @@ For this project, create a program that allows the clerk to:
 Create a database called `ebookstore` and a table called `book` with the 
 following structure:
 
-![Screenshot 1](/Users/c_snippy/Dropbox/CS23080009134/2 Introduction to Software Engineering/L2T13 - Capstone Project - Databases/Capstone Project - Databases/screenshot1.png)
+![Screenshot 1](Screenshot1.png)
 
-![Screenshot 2](/Users/c_snippy/Dropbox/CS23080009134/2 Introduction to Software Engineering/L2T13 - Capstone Project - Databases/Capstone Project - Databases/screenshot2.png)
+![Screenshot 2](Screenshot2.png)
 
 
 The program should present the user with the following menu:
